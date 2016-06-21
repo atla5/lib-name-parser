@@ -17,7 +17,7 @@ This will (hopefully) enable the linking of similar names across multiple occura
   
 _The program follows the lineage from Josh Fraser's original implementation of the 
   [php-name-parser](https://github.com/joshfraser/PHP-Name-Parser), and from Garve Hays's java port, 
-  [NameParser](github.com/gkhays/NameParser). Its naming scheme is meant to reflect this geneology._
+  [NameParser](https://github.com/gkhays/NameParser). Its naming scheme is meant to reflect this geneology._
   
 ### Purpose ###
 
@@ -47,10 +47,10 @@ I intend to ensure that the program itself remains agnostic as to the balance be
   
 ### Background ###
 Name parsing is a very common operation in software development. I wanted to find (or create) a standard algorithm for 
-  doing this with LIS software, but found that [@joshfraser](github.com/joshfraser) had already created one in PHP and
-  JavaScript (links below).
+  doing this with LIS software, but found that [@joshfraser](https://github.com/joshfraser) had already created one 
+  in PHP and JavaScript (links below).
   
-Looking into these derivatives, I first forked [@gkhays](github.com/gkhays) 'NameParser', but found that this would 
+Looking into these derivatives, I first forked [@gkhays](https://github.com/gkhays) 'NameParser', but found that this would 
   be a much heftier implementation given the time/occurrences component and that it might be wise to create my own from 
   scratch instead of pull requesting a gigantic alteration. 
   
@@ -60,11 +60,11 @@ This software, as mentioned, follows this authorial lineage from Josh to Garve t
 ### External Links ###
 
 #### software/algorithm ####
-* [Josh Fraser](github.com/joshfraser)'s original 2009 article 
+* [Josh Fraser](https://github.com/joshfraser)'s original 2009 article 
   '[splitting names](http://www.onlineaspect.com/2009/08/17/splitting-names/)' describing algorithm
 * associated [php](https://github.com/joshfraser/PHP-Name-Parser) and
   [js](https://github.com/joshfraser/JavaScript-Name-Parser) github repositories. 
-* port by [Garve Hays](github.com/gkhays) in [java](github.com/gkhays/NameParser) that was very helpful 
+* port by [Garve Hays](https://github.com/gkhays) in [java](https://github.com/gkhays/NameParser) that was very helpful 
 * 2010 article by [Patrick McKenzie](https://github.com/patio11) of [Kalzumeus Software](https://www.kalzumeus.com/)
   on '[Faleshoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)'
 
