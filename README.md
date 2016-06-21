@@ -16,8 +16,8 @@ This will (hopefully) enable the linking of similar names across multiple occura
   work, it could also automate the creation of authority records between issues and within collections.
   
 _The program follows the lineage from Josh Fraser's original implementation of the 
-  [php-name-parser](https://github.com/joshfraser/PHP-Name-Parser), and from Garve Hays's 
-  [java port](github.com/gkhays/NameParser).
+  [php-name-parser](https://github.com/joshfraser/PHP-Name-Parser), and from Garve Hays's java port, 
+  [NameParser](github.com/gkhays/NameParser). Its naming scheme is meant to reflect this geneology._
   
 ### Purpose ###
 
