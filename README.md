@@ -59,14 +59,20 @@ This software, as mentioned, follows this authorial lineage from Josh to Garve t
 
 ### External Links ###
 
+#### names (general) ####
+* 2010 article by [Patrick McKenzie](https://github.com/patio11) of [Kalzumeus Software](https://www.kalzumeus.com/)
+  on '[Faleshoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)'.
+* academic [paper](https://arxiv.org/pdf/1308.0749.pdf) entitled "Accuracy of simple, initials-based methods for 
+  author name disambiguation" by Stasa Milojevic.
+* ...
+
 #### software/algorithm ####
 * [Josh Fraser](https://github.com/joshfraser)'s original 2009 article 
   '[splitting names](http://www.onlineaspect.com/2009/08/17/splitting-names/)' describing algorithm
 * associated [php](https://github.com/joshfraser/PHP-Name-Parser) and
   [js](https://github.com/joshfraser/JavaScript-Name-Parser) github repositories. 
 * port by [Garve Hays](https://github.com/gkhays) in [java](https://github.com/gkhays/NameParser) that was very helpful 
-* 2010 article by [Patrick McKenzie](https://github.com/patio11) of [Kalzumeus Software](https://www.kalzumeus.com/)
-  on '[Faleshoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)'
+
 
 #### authority control (LIS) ####
 * short introductory [write-up](https://library.fiu.edu/about-us/cataloging/authority-control) by 
@@ -75,6 +81,8 @@ This software, as mentioned, follows this authorial lineage from Josh to Garve t
   with a section specifically about 
   [authority records](https://en.wikipedia.org/wiki/Authority_control#Authority_records_and_files)
 * long but approachable 2007 article on '[the purpose of authority control](https://bibwild.wordpress.com/2007/08/08/the-purpose-of-authority-control/)'
+* In-depth [presentation](http://researcharchive.calacademy.org/research/informatics/taf/proceedings/Calhoun.html) 
+  by Karen Calhoun from the Taxonomic Authority File (TAF) Workshop 
 
 _note: I did come up with a very similar algorithm and parsing scheme independent of these sources, 
   but given the clarity of their documentation and the prior existence of their implementations and
