@@ -81,8 +81,9 @@ This software, as mentioned, follows this authorial lineage from Josh to Garve t
   with a section specifically about 
   [authority records](https://en.wikipedia.org/wiki/Authority_control#Authority_records_and_files)
 * long but approachable 2007 article on '[the purpose of authority control](https://bibwild.wordpress.com/2007/08/08/the-purpose-of-authority-control/)'
-* In-depth [presentation](http://researcharchive.calacademy.org/research/informatics/taf/proceedings/Calhoun.html) 
-  by Karen Calhoun from the Taxonomic Authority File (TAF) Workshop 
+* A [presentation](http://researcharchive.calacademy.org/research/informatics/taf/proceedings/Calhoun.html) 
+  by Karen Calhoun from the Taxonomic Authority File (TAF) Workshop giving an overview of the history and 
+  agreement on authority control.
 
 _note: I did come up with a very similar algorithm and parsing scheme independent of these sources, 
   but given the clarity of their documentation and the prior existence of their implementations and
